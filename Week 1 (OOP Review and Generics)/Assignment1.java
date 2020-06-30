@@ -1,4 +1,4 @@
-// Creates a new arraylist that removes duplicates from the original list
+// Creates a new arraylist that removes duplicates from the original list 
 
 import java.util.ArrayList;
 
