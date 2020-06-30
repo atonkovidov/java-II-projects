@@ -1,3 +1,5 @@
+// A method that returns the maximum element in a two-dimensional array
+
 public class Assignment2 {
 	public static void main(String[] args) {
 		Integer[][] numbers = { { 1, 2, 3 }, { 4, 4, 6 } };
