@@ -1,4 +1,4 @@
-// An implementation of Min-Heap based on the Max-Heap presented in the text
+// An implementation of Min-Heap based on the Max-Heap presented in the text 
 
 public class Assignment1 {
 
