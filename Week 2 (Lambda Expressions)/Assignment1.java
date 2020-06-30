@@ -6,7 +6,7 @@ interface NumericFunc {
 class Assignment1 {
 
 	public static void main(String args[]) {
-		// This block lambda computes the factorial of an int value. 
+		// This block lambda computes the factorial of an int value.
 		
 		NumericFunc factorial = n -> {
 			int value = 1;
