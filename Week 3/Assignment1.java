@@ -1,5 +1,5 @@
 
-// A program to read and evaluate a postfix expression using stacks
+// A program to read and evaluate a postfix expression using stacks 
 
 import java.util.Scanner;
 import java.util.Stack;
