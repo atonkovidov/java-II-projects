@@ -1,5 +1,5 @@
 
-// Implementing contains(E e), get(int index), indexOf(E e), lastIndexOf(E e), set(int index, E e) methods
+// Implementing contains(E e), get(int index), indexOf(E e), lastIndexOf(E e), set(int index, E e) methods 
 
 import java.util.*;
 
