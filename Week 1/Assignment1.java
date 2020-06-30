@@ -1,3 +1,5 @@
+// Creates a new arraylist that removes duplicates from the original list
+
 import java.util.ArrayList;
 
 public class Assignment1 {
