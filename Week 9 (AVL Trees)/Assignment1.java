@@ -1,4 +1,4 @@
-// A program to find the kth smallest element in a BST
+// A program to find the kth smallest element in a BST (search "your work" for my code)
 
 import java.util.Scanner;
 
