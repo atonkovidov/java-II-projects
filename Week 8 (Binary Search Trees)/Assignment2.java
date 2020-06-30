@@ -1,4 +1,4 @@
-// Outputting the height of a BST and the sum of each level
+// Outputting the height of a BST and the sum of each level 
 
 import java.util.*;
 
