@@ -1,4 +1,4 @@
-// Farmer John board cutting problem (finding smallest cost)
+// Farmer John board cutting problem (finding smallest cost) 
 
 import java.util.*;
 
