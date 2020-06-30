@@ -1,4 +1,4 @@
-// Program creates 1,000,000 random integers and uses radix sort to sort them
+// Program creates 1,000,000 random integers and uses radix sort to sort them 
 
 import java.util.ArrayList;
 import java.util.List;
