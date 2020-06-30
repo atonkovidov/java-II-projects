@@ -1,4 +1,4 @@
-// Revision of MyPriorityQueue to use a generic parameter to compare objects
+// Revision of MyPriorityQueue to use a generic parameter to compare objects 
 
 import java.util.Comparator;
 
