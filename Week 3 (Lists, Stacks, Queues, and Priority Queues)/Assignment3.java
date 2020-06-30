@@ -1,4 +1,4 @@
-// A program that sorts various items using a comparator interface
+// A program that sorts various items using a comparator interface 
 
 import java.util.Comparator;
 
