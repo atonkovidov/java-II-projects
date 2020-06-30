@@ -1,6 +1,6 @@
 // Use a method reference to an instance method. 
 // A functional interface for numeric predicates that operate 
-// on integer values. (my work is below where indicated)
+// on integer values. (my work is below where indicated) 
 interface IntPredicate {
 	boolean test(int n);
 }
