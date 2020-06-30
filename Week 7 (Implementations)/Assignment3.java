@@ -1,4 +1,4 @@
-// A Fibonacci number iterator
+// A Fibonacci number iterator 
 
 import java.util.Iterator;
 
