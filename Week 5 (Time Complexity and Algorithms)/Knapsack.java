@@ -11,7 +11,7 @@ public class Knapsack {
 		final int KNAPSACK_CAPACITY = 20;
 		Item[] items = generateItems(NUMBER_ITEMS, MIN_VALUE, MAX_VALUE, MIN_WEIGHT, MAX_WEIGHT);
 
-		// your work 
+		// your work
 		int[][] knapsack = new int[NUMBER_ITEMS][KNAPSACK_CAPACITY];
 
 		// Populating the "table" of max values for specific weights through dynamic programming
