@@ -1,4 +1,4 @@
-// Comparing MyHashSet and MyArrayList 
+// Comparing MyHashSet and MyArrayList
 
 package Assignment2;
 
