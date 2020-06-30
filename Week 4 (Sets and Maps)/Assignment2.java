@@ -1,5 +1,5 @@
 
-// Program counts the number of occurrences of entered integers 
+// Program counts the number of occurrences of entered integers
 
 import java.util.*;
 
