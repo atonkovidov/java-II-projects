@@ -1,4 +1,4 @@
-// A non-recursive method (using queues) of finding the file size of a directory
+// A non-recursive method (using queues) of finding the file size of a directory 
 
 import java.io.File;
 import java.util.Scanner;
