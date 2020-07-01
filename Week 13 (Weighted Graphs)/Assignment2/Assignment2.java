@@ -1,4 +1,4 @@
-// Displaying a minimum spanning tree with data from a file
+// Displaying a minimum spanning tree with data from a file 
 
 package assignment2;
 
