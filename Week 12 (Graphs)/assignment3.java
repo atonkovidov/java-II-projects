@@ -1,4 +1,4 @@
-// Finding the smallest number of turns to win a game of Snakes and Ladders on a 10x10 board
+// Finding the smallest number of turns to win a game of Snakes and Ladders on a 10x10 board 
 
 package assignment3;
 
