@@ -1,4 +1,4 @@
-// Displaying the shortest path between two user-chosen vertices from a file
+// Displaying the shortest path between two user-chosen vertices from a file 
 
 package assignment3;
 
