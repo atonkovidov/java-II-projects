@@ -1,4 +1,4 @@
-// Minimum additional snow drifts required to reach any drift from any other
+// Minimum additional snow drifts required to reach any drift from any other 
 
 package assignment2;
 
