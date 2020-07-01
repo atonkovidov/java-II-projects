@@ -1,4 +1,4 @@
-// Test whether a graph is connected 
+// Test whether a graph is connected
 
 package assignment1;
 
